@@ -1,4 +1,4 @@
-#COE428: Algorithms and Data Structures – C Coursework (Winter 2026)
+COE428: Algorithms and Data Structures – C Coursework (Winter 2026)
 
 This repository contains laboratory work completed as part of COE428: Algorithms and Data Structures, a second-year Computer Engineering course taken in Winter 2026.
 All exercises were implemented in C, with a focus on algorithmic efficiency and memory management, including asymptotic complexity analysis,
